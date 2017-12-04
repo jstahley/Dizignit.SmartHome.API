@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2009
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dizignit.SmartHome.API", "Dizignit.SmartHome.API\Dizignit.SmartHome.API.csproj", "{501DAA1B-BF46-4A54-B8B8-CEE0C5D5BA3B}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{E5F49CC3-6894-4DF5-B02E-802E3891CF4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{501DAA1B-BF46-4A54-B8B8-CEE0C5D5BA3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{501DAA1B-BF46-4A54-B8B8-CEE0C5D5BA3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{501DAA1B-BF46-4A54-B8B8-CEE0C5D5BA3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{501DAA1B-BF46-4A54-B8B8-CEE0C5D5BA3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5F49CC3-6894-4DF5-B02E-802E3891CF4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F49CC3-6894-4DF5-B02E-802E3891CF4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F49CC3-6894-4DF5-B02E-802E3891CF4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F49CC3-6894-4DF5-B02E-802E3891CF4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D605F3D5-3533-4763-B851-4BD7DED43019}
+	EndGlobalSection
+EndGlobal

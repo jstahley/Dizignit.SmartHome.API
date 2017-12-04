@@ -3,7 +3,7 @@
   <PropertyGroup Label="Globals">
     <ProjectVersion>2.0</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
-    <ProjectGuid>56f95a30-c50a-4387-81cb-56fd2b5e469a</ProjectGuid>
+    <ProjectGuid>e5f49cc3-6894-4df5-b02e-802e3891cf4c</ProjectGuid>
     <DockerLaunchBrowser>True</DockerLaunchBrowser>
     <DockerServiceUrl>http://localhost:{ServicePort}/api/values</DockerServiceUrl>
     <DockerServiceName>dizignit.smarthome.api</DockerServiceName>
