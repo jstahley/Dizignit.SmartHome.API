@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  dizignit.smarthome.api:
+    image: dizignit.smarthome.api
+    build:
+      context: ./Dizignit.SmartHome.API
+      dockerfile: Dockerfile
